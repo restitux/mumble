@@ -1475,7 +1475,7 @@ Når du er lenger unna enn dette vil andres stemme ikke bli dempet ytterligere.<
     </message>
     <message>
         <source>Default jitter buffer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Forvalgt jitter-mellomlager</translation>
     </message>
     <message>
         <source>Volume of incoming speech</source>
@@ -2098,7 +2098,7 @@ Ingen snakking. Krysset (Definitivt ikke tale)</translation>
     </message>
     <message>
         <source>VAD level</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">VAD-nivå</translation>
     </message>
     <message>
         <source>PTT shortcut</source>
@@ -2905,7 +2905,7 @@ Er du sikker på at du vil erstatte ditt sertifikat?
     </message>
     <message>
         <source>Defaults (All)</source>
-        <translation type="unfinished"></translation>
+        <translation>Forvalg (alle)</translation>
     </message>
 </context>
 <context>
@@ -3284,7 +3284,7 @@ Hva tjeneren er beskrevet som. Dette er hva tjeneren vil bli navngitt som i din 
     </message>
     <message>
         <source>HTTP error %1: &quot;%2&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP-feil %1: «%2»</translation>
     </message>
     <message>
         <source>Internal error encountered in CrashReporter.cpp: Received network reply does not contain an HTTP status code. Please inform a developer about error code %1</source>
@@ -4436,7 +4436,7 @@ Har kun innvirkning for nye meldinger. Gamle meldinger vises i foregående tidsf
     </message>
     <message>
         <source>Abbreviate channel names</source>
-        <translation type="unfinished"></translation>
+        <translation>Forkort kanalnavn</translation>
     </message>
     <message>
         <source>The preferred maximum length of a channel (hierarchy) name in the Talking UI. Note that this is not a hard limit though.</source>
@@ -4496,7 +4496,7 @@ Har kun innvirkning for nye meldinger. Gamle meldinger vises i foregående tidsf
     </message>
     <message>
         <source>Show the local volume adjustment for each user (if any).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vis lokal lydstyrkejustering for hver bruken (om de forefinnes).</translation>
     </message>
     <message>
         <source>Show volume adjustments</source>
@@ -4508,7 +4508,7 @@ Har kun innvirkning for nye meldinger. Gamle meldinger vises i foregående tidsf
     </message>
     <message>
         <source>Show local user&apos;s listeners (ears)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis lokal brukers lyttere (ører)</translation>
     </message>
     <message>
         <source>Hide the username for each user if they have a nickname.</source>
@@ -4520,7 +4520,7 @@ Har kun innvirkning for nye meldinger. Gamle meldinger vises i foregående tidsf
     </message>
     <message>
         <source>Channel Hierarchy String</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanal-hierarkistreng</translation>
     </message>
     <message>
         <source>Search</source>
@@ -4528,7 +4528,7 @@ Har kun innvirkning for nye meldinger. Gamle meldinger vises i foregående tidsf
     </message>
     <message>
         <source>The action to perform when a user is activated (via double-click or enter) in the search dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Handling å utføre når en bruker aktiveres (via dobbeltklikk eller enter) i søkedialogen.</translation>
     </message>
     <message>
         <source>Action (User):</source>
@@ -4536,7 +4536,7 @@ Har kun innvirkning for nye meldinger. Gamle meldinger vises i foregående tidsf
     </message>
     <message>
         <source>The action to perform when a channel is activated (via double-click or enter) in the search dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Handling å utføre når en kanal aktiveres (via dobbeltklikk eller enter) i søkedialogen.</translation>
     </message>
     <message>
         <source>Action (Channel):</source>
@@ -4844,7 +4844,7 @@ Har kun innvirkning for nye meldinger. Gamle meldinger vises i foregående tidsf
     <message>
         <source>Set Transmit Mode to VAD</source>
         <comment>Global Shortcut</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sett overføringsmodus til VAD</translation>
     </message>
     <message>
         <source>Send Text Message</source>
@@ -6107,7 +6107,7 @@ kanalens kontekstmeny.</translation>
     </message>
     <message>
         <source>Protocol violation. Server sent remove for occupied channel.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Protokollfeil. Tjeneren forespurte fjerning av kanal som ikke er tom.</translation>
     </message>
     <message>
         <source>Listen to channel</source>
@@ -6369,23 +6369,23 @@ Valid options are:
     </message>
     <message>
         <source>This will open or close the search dialog depending on whether it is currently opened already</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Åpner eller lukker søkedialogen avhengig av om den nylig har blitt åpnet</translation>
     </message>
     <message>
         <source>Unmute yourself</source>
-        <translation type="unfinished"></translation>
+        <translation>Opphev egen forstumming</translation>
     </message>
     <message>
         <source>Undeafen yourself</source>
-        <translation type="unfinished"></translation>
+        <translation>Opphev egen døvhet</translation>
     </message>
     <message>
         <source>Positional &amp;Audio Viewer...</source>
-        <translation type="unfinished"></translation>
+        <translation>Posisjonell &amp;lydvisualiserer …</translation>
     </message>
     <message>
         <source>Show the Positional Audio Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis den posisjonelle lydvisualisereren</translation>
     </message>
     <message>
         <source>Shows the Positional Audio Viewer. In it the current information used for positional audio can be inspected. Context and identity are also shown.</source>
@@ -6393,11 +6393,11 @@ Valid options are:
     </message>
     <message>
         <source>Mumble - Minimal View</source>
-        <translation type="unfinished"></translation>
+        <translation>Mumble — minimal visning</translation>
     </message>
     <message>
         <source>Invalid settings file encountered.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fant ugyldig innstillingsfil.</translation>
     </message>
 </context>
 <context>
@@ -6694,11 +6694,11 @@ Forhindrer klienten fra å sende potensielt identifiserende informasjon om opera
     </message>
     <message>
         <source>Check for plugin updates on startup</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Se etter nye versjoner av programtillegg ved oppstart av programmet</translation>
     </message>
     <message>
         <source>Automatically download and install plugin updates</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Last ned og installer nye versjoner av programtillegg automatisk</translation>
     </message>
 </context>
 <context>
@@ -7263,7 +7263,7 @@ Trykk på knappen nedefor for å oppgradere.</translation>
     </message>
     <message>
         <source>KeyEvents</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tastaturhendelser</translation>
     </message>
     <message>
         <source>Install a plugin from a local file</source>
@@ -7283,7 +7283,7 @@ Trykk på knappen nedefor for å oppgradere.</translation>
     </message>
     <message>
         <source>The plugin was installed successfully</source>
-        <translation type="unfinished"></translation>
+        <translation>Programtillegget ble installert</translation>
     </message>
     <message>
         <source>Unable to deactivate all requested features for plugin &quot;%1&quot;</source>
@@ -7291,7 +7291,7 @@ Trykk på knappen nedefor for å oppgradere.</translation>
     </message>
     <message>
         <source>Unable to load plugin &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kunne ikke laste inn «%1»-programtillegget</translation>
     </message>
     <message>
         <source>Whether the positional audio feature of this plugin should be enabled</source>
@@ -7358,11 +7358,11 @@ Trykk på knappen nedefor for å oppgradere.</translation>
     </message>
     <message>
         <source>Unable to copy plugin library from &quot;%1&quot; to &quot;%2&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke flytte programtilleggsbibliotek fra «%1» til «%2»</translation>
     </message>
     <message>
         <source>Unable to move plugin library to &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke flytte programtilleggsbibliotek til «%1»</translation>
     </message>
     <message>
         <source>Unable to locate the plugin manifest (manifest.xml)</source>
@@ -7370,7 +7370,7 @@ Trykk på knappen nedefor for å oppgradere.</translation>
     </message>
     <message>
         <source>Error while processing manifest: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kunne ikke behandle manifest: %1</translation>
     </message>
     <message>
         <source>Unable to find plugin for the current OS (&quot;%1&quot;) and architecture (&quot;%2&quot;)</source>
@@ -7424,19 +7424,19 @@ Trykk på knappen nedefor for å oppgradere.</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Velg alle</translation>
     </message>
     <message>
         <source>Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Programtillegg</translation>
     </message>
     <message>
         <source>Download-URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedlastingsnettadresse</translation>
     </message>
     <message>
         <source>Do you want to update the selected plugins?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oppdater valgte programtillegg?</translation>
     </message>
     <message>
         <source>Unable to download plugin update for &quot;%1&quot; from &quot;%2&quot; (%3)</source>
@@ -7452,7 +7452,7 @@ Trykk på knappen nedefor for å oppgradere.</translation>
     </message>
     <message>
         <source>Successfully updated plugin &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oppdaterte programtillegget «%1»</translation>
     </message>
 </context>
 <context>
@@ -7466,11 +7466,11 @@ Trykk på knappen nedefor for å oppgradere.</translation>
     <name>PositionalAudioViewer</name>
     <message>
         <source>Positional Audio Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Posisjonell lyd-visualiserer</translation>
     </message>
     <message>
         <source>Camera direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Kameraretning</translation>
     </message>
     <message>
         <source>X</source>
@@ -7718,7 +7718,7 @@ You can register them again.</source>
     </message>
     <message>
         <source>Load backup settings?</source>
-        <translation type="unfinished"></translation>
+        <translation>Last inn sikkerhetskopi-innstillinger?</translation>
     </message>
     <message>
         <source>It seems that Mumble did not perform a normal shutdown. If you did not intentionally kill the application, this could mean that the used settings caused a crash. Do you want to load the setting&apos;s backup instead?</source>
@@ -7854,11 +7854,11 @@ You can register them again.</source>
     </message>
     <message>
         <source>Case-&amp;sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Forskjell på små og store bokstaver</translation>
     </message>
     <message>
         <source>Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternativer:</translation>
     </message>
     <message>
         <source>Whether the search string should be interpreted as a regular expression</source>
@@ -7928,7 +7928,7 @@ You can register them again.</source>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Port:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Port:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&lt;b&gt;Users&lt;/b&gt;:</source>
@@ -7940,19 +7940,19 @@ You can register them again.</source>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Release:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Utgave:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;OS:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Operativsystem:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Lyd</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Allowed:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Tillatt:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&lt;b&gt;Current:&lt;/b&gt;</source>
@@ -8815,7 +8815,7 @@ Et tilgangssymbol er en tekststring, som kan brukes som et passord for veldig en
     </message>
     <message>
         <source>.opus - Lossy compressed</source>
-        <translation type="unfinished"></translation>
+        <translation>.opus — tapsbasert kompresjon</translation>
     </message>
 </context>
 <context>
@@ -8927,7 +8927,7 @@ Please contact your server administrator for further information.</source>
     </message>
     <message>
         <source>Unable to start recording - the audio output is miconfigured (0Hz sample rate)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kunne ikke starte opptak — lydutgangen er satt opp feil (0 Hz samplingstakt)</translation>
     </message>
 </context>
 <context>
