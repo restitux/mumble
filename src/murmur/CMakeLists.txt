@@ -49,6 +49,13 @@ set(MURMUR_SOURCES
 	"${SHARED_SOURCE_DIR}/Group.h"
 )
 
+if(static)
+	set(CMAKE_FIND_LIBRARY_SUFFIXES ".a")
+	set(BUILD_SHARED_LIBS OFF)
+	set(CMAKE_EXE_LINKER_FLAGS "-static")
+endif()
+
+
 if(WIN32)
 	add_executable(mumble-server WIN32 ${MURMUR_SOURCES})
 else()
@@ -181,18 +188,18 @@ if(zeroconf)
 	)
 endif()
 
-if(dbus AND NOT WIN32 AND NOT APPLE)
-	find_pkg(Qt5 COMPONENTS DBus REQUIRED)
-
-	target_sources(mumble-server
-		PRIVATE
-			"DBus.cpp"
-			"DBus.h"
-	)
-
-	target_compile_definitions(mumble-server PRIVATE "USE_DBUS")
-	target_link_libraries(mumble-server PRIVATE Qt5::DBus)
-endif()
+#if(dbus AND NOT WIN32 AND NOT APPLE)
+#	find_pkg(Qt5 COMPONENTS DBus REQUIRED)
+#
+#	target_sources(mumble-server
+#		PRIVATE
+#			"DBus.cpp"
+#			"DBus.h"
+#	)
+#
+#	target_compile_definitions(mumble-server PRIVATE "USE_DBUS")
+#	target_link_libraries(mumble-server PRIVATE Qt5::DBus)
+#endif()
 
 if(grpc)
 	# "gRPC" is the name of the official gRPC target whereas "GRPC" is the one used by our custom FindGRPC.cmake in 
